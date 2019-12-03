@@ -9,3 +9,7 @@ Blockchain Exposure:
 * Immutability: each new block is contains the hash of the previous block giving the blockchain immutability. If a block is corrupted all subsequent blocks will contain incorrect hashes.
 
 * Genesis Block: block with no predecessors
+
+Sample Requests: 
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/49091ca6661879059224)
